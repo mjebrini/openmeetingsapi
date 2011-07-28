@@ -1,6 +1,4 @@
 PHP API for openmeetings platforms 
 
-
-to use this library in your Zend Framework application  drop the Zend folder in your include path. 
-this package depends on Zend_Soap_Client package. if you want to use it without Zend Framework copy Zend_SOAP_CLIENT package from any Zend Frame work Library folder and drop it inside your library folder - I'll explain that in more details later. 
-
+example how to use Zend API in your models here .. 
+https://gist.github.com/1112580
